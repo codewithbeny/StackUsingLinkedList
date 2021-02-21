@@ -10,9 +10,7 @@ public class StackDemo {
         myStack.push(20);
         myStack.push(30);
         myStack.traverse();
-
         System.out.print(myStack.peek());
-        
         myStack.pop();
         myStack.traverse();
         myStack.size();
